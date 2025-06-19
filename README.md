@@ -28,7 +28,9 @@ This project demonstrates a complete CI/CD pipeline using Jenkins to automate th
 ## 📁 Project Structure
 
 Results:
-![image](https://github.com/user-attachments/assets/ca3f3e38-9486-4c46-b8d8-a7e9e478a92b)
+
+![image](https://github.com/user-attachments/assets/4f13f033-3113-49a2-972f-4a74544683b3)
+
 
 ![image](https://github.com/user-attachments/assets/685a93b0-ef56-483a-bc98-397dc038f651)
 
