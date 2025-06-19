@@ -4,7 +4,8 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/kusuma-1004/aws_pipeline.git'
+               git branch: 'main',
+               url: 'https://github.com/kusuma-1004/aws_pipeline.git'
             }
         }
 
