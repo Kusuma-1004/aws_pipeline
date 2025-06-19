@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/<your-username>/ci-cd-python-docker.git'
+                git 'https://github.com/kusuma-1004/aws_pipeline.git'
             }
         }
 
